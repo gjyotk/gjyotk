@@ -1,16 +1,15 @@
 <h1 align="center">Hi there👋, I'm Gurjot Kaur</h1>
 
-- I’m looking to collaborate on **Machine Learning based projects**
+- Currently exploring **Generative AI**
 
-- How to reach me **https://www.linkedin.com/in/gurjotkaur94/**
+- Looking to collaborate on **Machine Learning based projects**
 
-- I’m currently exploring **Generative AI**
-  
+- How to reach me: **https://www.linkedin.com/in/gurjotkaur94/**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gjyotk&show_icons=true&locale=en&layout=compact" alt="gjyotk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gjyotk&show_icons=true&locale=en" alt="gjyotk" /></p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gjyotk&show_icons=true&locale=en" alt="gjyotk" style="width: 445px; height: auto; margin-right: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gjyotk&show_icons=true&locale=en&layout=compact" alt="gjyotk" style="width: 340px; height: auto;" />
+</div>
 
 [<img src="https://holopin.me/gjyotk" alt="An image of @gjyotk's Holopin badges" style="width: 850px; height: auto;">](https://holopin.io/@gjyotk)
 
