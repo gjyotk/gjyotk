@@ -1,10 +1,7 @@
-<h1 align="center">Hi there👋, I'm Gurjot Kaur</h1>
+<h1 align="left">Hi! I'm Gurjot Kaur</h1>
 
-- Currently exploring **Generative AI**
-
-- Looking to collaborate on **Machine Learning based projects**
-
-- How to reach me: **https://www.linkedin.com/in/gurjotkaur94/**
+- I'm currently exploring **Deep Learning**
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/gurjotkaur94/)
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gjyotk&show_icons=true&locale=en" alt="gjyotk" style="width: 445px; height: auto; margin-right: 20px;"/>
