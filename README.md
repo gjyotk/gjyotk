@@ -2,6 +2,7 @@
 
 - I'm currently exploring **Deep Learning**
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/gurjotkaur94/)
+- View [profile](https://gurjot-kaur-portfolio.vercel.app)
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gjyotk&show_icons=true&locale=en" alt="gjyotk" style="width: 445px; height: auto; margin-right: 20px;"/>
